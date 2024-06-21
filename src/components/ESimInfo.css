@@ -1,0 +1,148 @@
+.heading-2,
+.heading-21 {
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.heading-2 {
+  margin: 0;
+  width: 276px;
+  height: 35px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heading-21 {
+  width: 473.1px;
+  height: 30px;
+  font-size: 18px;
+  max-width: 100%;
+}
+.paragraphbackground {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 73px 20px 73px 30px;
+  box-sizing: border-box;
+  gap: 5px;
+  background-image: url(/public/paragraphbackground@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+  color: #fff;
+}
+.svg-icon {
+  height: 50px;
+  width: 28px;
+  position: relative;
+  object-fit: cover;
+}
+.heading-11 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.phone-brand {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 6.2px;
+}
+.phone-image {
+  width: 133.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 10px;
+  font-size: 24px;
+  color: #797979;
+}
+.esim-compatible-xiaomi-devices,
+.heading-22 {
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+}
+.heading-22 {
+  margin: 0;
+  width: 488.3px;
+  height: 30px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  color: #080808;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.esim-compatible-xiaomi-devices {
+  width: 271.5px;
+  font-size: 18px;
+}
+.xiaomi-12,
+.xiaomi-12-pro,
+.xiaomi-12x,
+.xiaomi-mi-10,
+.xiaomi-mi-101,
+.xiaomi-mi-10t,
+.xiaomi-mi-10t1,
+.xiaomi-mi-10t2,
+.xiaomi-mi-11,
+.xiaomi-mi-111,
+.xiaomi-mi-112,
+.xiaomi-mi-note,
+.xiaomi-poco-f3,
+.xiaomi-poco-f4,
+.xiaomi-poco-x3,
+.xiaomi-redmi-note,
+.xiaomi-redmi-note1 {
+  margin: 0;
+}
+.item-xiaomi-container {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.e-sim-info {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 37px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #000;
+  font-family: Poppins;
+}
+@media screen and (max-width: 750px) {
+  .heading-2,
+  .heading-22 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .e-sim-info {
+    gap: 18px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-11,
+  .heading-2,
+  .heading-22 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

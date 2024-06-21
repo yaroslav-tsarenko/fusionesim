@@ -1,0 +1,65 @@
+.link-icon4 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.all-about-international,
+.roaming-data-plans {
+  margin: 0;
+}
+.all-about-international-container {
+  position: relative;
+  line-height: 120%;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.international-roaming-is,
+.what-is-international {
+  margin: 0;
+}
+.what-is-international-container {
+  align-self: stretch;
+  height: 42px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.all-about-international-roamin-parent {
+  width: 210.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 7.2px;
+  box-sizing: border-box;
+  gap: 0.7px;
+}
+.article-child {
+  width: 132px;
+  height: 46px;
+}
+.article {
+  height: 359px;
+  width: 246px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 14.9px;
+  box-sizing: border-box;
+  gap: 19.3px;
+  text-align: left;
+  font-size: 18px;
+  color: #080808;
+  font-family: "tt hoves";
+}

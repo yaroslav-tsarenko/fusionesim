@@ -1,0 +1,106 @@
+.its-time-to1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  text-shadow: -2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.search-input {
+  width: 652px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-icon1 {
+  height: 16px;
+  width: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.image-icon1,
+.search-for-countries1 {
+  position: relative;
+}
+.container2 {
+  height: 18px;
+  flex: 1;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  opacity: 0.5;
+  min-width: 137px;
+  max-width: 100%;
+}
+.form-input2,
+.hero1,
+.search1 {
+  display: flex;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.form-input2 {
+  width: 651px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+  background-color: #fff;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 12px 13px 13.5px;
+  gap: 11px;
+  text-align: left;
+  font-size: 15px;
+  color: gray;
+  font-family: Roboto;
+}
+.hero1,
+.search1 {
+  justify-content: flex-start;
+}
+.search1 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+  padding: 124px 20px 124.5px;
+  gap: 20px;
+  background-image: url(/public/search@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.hero1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 64px;
+  text-align: center;
+  font-size: 32px;
+  color: #fff;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 750px) {
+  .its-time-to1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .its-time-to1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .hero1 {
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}

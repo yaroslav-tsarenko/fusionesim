@@ -1,0 +1,351 @@
+.frame-inner {
+  height: 27.8px;
+  width: 27.8px;
+  position: relative;
+  object-fit: contain;
+  min-height: 28px;
+}
+.fusionwavesim2 {
+  position: relative;
+  line-height: 25px;
+}
+.frame-parent5,
+.how-it-works-02png,
+.step-icon-titles {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.step-icon-titles {
+  flex-direction: column;
+  padding: 1.4px 0 0;
+}
+.frame-parent5,
+.how-it-works-02png {
+  flex-direction: row;
+}
+.frame-parent5 {
+  background-color: #fff;
+  padding: 5.6px 5px;
+  gap: 3.9px;
+}
+.how-it-works-02png {
+  flex: 1;
+  overflow: hidden;
+  padding: 47px 30px 47px 37px;
+  background-image: url(/public/howitworks02png@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  color: #080808;
+  font-family: "TT Hoves";
+}
+.choose-your-package {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.step-titles {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 1px;
+  font-size: 24px;
+}
+.completing-the-order,
+.details,
+.order-esim-data,
+.receive-an-email {
+  margin: 0;
+}
+.order-esim-data-container {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.step-descriptions,
+.step-items {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.step-descriptions {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 3px;
+  font-size: 16px;
+}
+.step-items {
+  height: 638.8px;
+  width: 246.7px;
+  flex-direction: column;
+  gap: 12px;
+}
+.group-icon {
+  height: 27.8px;
+  width: 27.8px;
+  position: relative;
+  object-fit: contain;
+  min-height: 28px;
+}
+.fusionwavesim3 {
+  position: relative;
+  line-height: 25px;
+}
+.frame-parent6,
+.fusionwavesim-wrapper,
+.how-it-works-03png {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fusionwavesim-wrapper {
+  flex-direction: column;
+  padding: 1.4px 0 0;
+}
+.frame-parent6,
+.how-it-works-03png {
+  flex-direction: row;
+}
+.frame-parent6 {
+  background-color: #fff;
+  padding: 5.6px 5px;
+  gap: 3.9px;
+}
+.how-it-works-03png {
+  flex: 1;
+  overflow: hidden;
+  padding: 47px 30px 47px 37px;
+  background-image: url(/public/howitworks03png@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  color: #080808;
+  font-family: "TT Hoves";
+}
+.get-esim-qr {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.get-esim-qr-code-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 16px;
+  font-size: 24px;
+}
+.open-the-file {
+  margin: 0;
+}
+.confirmation-email-where {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.open-the-file-container {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.open-the-file-attached-to-your-wrapper,
+.step-items1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.open-the-file-attached-to-your-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 3px;
+  font-size: 16px;
+}
+.step-items1 {
+  height: 614.6px;
+  width: 246.7px;
+  flex-direction: column;
+  gap: 12px;
+}
+.frame-child1 {
+  height: 27.8px;
+  width: 27.8px;
+  position: relative;
+  object-fit: contain;
+  min-height: 28px;
+}
+.fusionwavesim4 {
+  position: relative;
+  line-height: 25px;
+}
+.frame-parent7,
+.fusionwavesim-container,
+.how-it-works-03png1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.fusionwavesim-container {
+  flex-direction: column;
+  padding: 1.4px 0 0;
+}
+.frame-parent7,
+.how-it-works-03png1 {
+  flex-direction: row;
+}
+.frame-parent7 {
+  background-color: #fff;
+  padding: 5.6px 5px;
+  gap: 4px;
+}
+.how-it-works-03png1 {
+  flex: 1;
+  overflow: hidden;
+  padding: 47px 30px 47px 37px;
+  background-image: url(/public/howitworks03png1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  color: #080808;
+  font-family: "TT Hoves";
+}
+.scan-qr-code {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.scan-qr-code-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 40px 0 41px;
+  font-size: 24px;
+}
+.received-using-your,
+.scan-the-qr {
+  margin: 0;
+}
+.compatible-device-and {
+  margin: 0;
+  white-space: pre-wrap;
+}
+.scan-the-qr-container {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+}
+.scan-the-qr-code-you-have-rece-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 3px;
+  font-size: 16px;
+}
+.step-items2 {
+  height: 614.6px;
+  width: 246.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.how-it-works-steps,
+.how-it-works-steps-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.how-it-works-steps {
+  width: 1236px;
+  background-color: #fff;
+  justify-content: space-between;
+  padding: 42px 80px;
+  gap: 20px;
+}
+.how-it-works-steps-wrapper {
+  align-self: stretch;
+  background-color: #f2f6f8;
+  justify-content: center;
+  padding: 64px 20px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 20.7px;
+  color: #000;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1325px) {
+  .how-it-works-steps {
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .how-it-works-steps {
+    padding-top: 27px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+  .how-it-works-steps-wrapper {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .fusionwavesim2 {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .choose-your-package {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .fusionwavesim3 {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .get-esim-qr {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .fusionwavesim4 {
+    font-size: 17px;
+    line-height: 20px;
+  }
+  .scan-qr-code {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .how-it-works-steps-wrapper {
+    padding-top: 27px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}

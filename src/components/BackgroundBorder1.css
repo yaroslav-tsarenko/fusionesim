@@ -1,0 +1,110 @@
+.image-icon {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  object-fit: cover;
+}
+.image-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.7px 0 0;
+}
+.data {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 34px;
+}
+.frame-parent9,
+.frame-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-wrapper {
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 0 0 7.4px;
+}
+.gb {
+  position: relative;
+  font-size: 25px;
+  line-height: 43px;
+  display: inline-block;
+  min-width: 48px;
+}
+.frame-parent8 {
+  width: 161.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 20px;
+}
+.image-icon1 {
+  width: 20px;
+  height: 20px;
+  position: relative;
+  object-fit: cover;
+}
+.image-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 3.7px 0 0;
+}
+.valid-for-7 {
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  min-width: 112px;
+}
+.border {
+  border-top: 1px solid #eaeaea;
+  border-bottom: 1px solid #eaeaea;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4px 29px 4px 0;
+}
+.product-plan-spacers {
+  position: relative;
+  line-height: 42.5px;
+  display: inline-block;
+  min-width: 29.1px;
+  white-space: nowrap;
+}
+.backgroundborder,
+.product-plan-spacers-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 67px 0 66px;
+  font-size: 25px;
+}
+.backgroundborder {
+  border-radius: 20px;
+  background-color: #00a11a;
+  border: 2px solid #d9d9d9;
+  flex-direction: column;
+  padding: 19px 19px 19px 20px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+  text-align: left;
+  font-size: 16px;
+  color: #fff;
+  font-family: Roboto;
+}
+@media screen and (max-width: 450px) {
+  .gb,
+  .product-plan-spacers {
+    font-size: 20px;
+    line-height: 34px;
+  }
+}

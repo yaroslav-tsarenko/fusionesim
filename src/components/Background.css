@@ -1,0 +1,1374 @@
+.available-in,
+.available-title {
+  display: flex;
+  justify-content: center;
+  max-width: 100%;
+}
+.available-in {
+  margin: 0;
+  width: 1220px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.available-title {
+  width: 1538px;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.flag-of-albania-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.albania {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 51px;
+}
+.link {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 3px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-andorra-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.andorra {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 54px;
+}
+.link1 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 3px;
+  left: 223px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-armenia-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.armenia {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 57px;
+}
+.link2,
+.link3 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 3px;
+}
+.link2 {
+  left: 446px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.link3 {
+  height: 59px;
+  left: 669px;
+}
+.flag-of-bosnia-herzegovina-150-icon {
+  width: 25px;
+  height: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.bosnia-flag {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 12.2px;
+}
+.bosnia-and,
+.herzegovina {
+  margin: 0;
+}
+.bosnia-and-herzegovina-container {
+  position: relative;
+  line-height: 25.5px;
+}
+.link4 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 892px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 6.2px 17px 7.8px;
+  box-sizing: border-box;
+  gap: 9.4px;
+}
+.flag-of-belarus-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.belarus {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 51px;
+}
+.link5 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 3px;
+  left: 1115px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-belgium-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.belgium {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 55px;
+}
+.link6 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 3px;
+  left: 1338px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-bulgariasvg-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 25px;
+}
+.bulgaria {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 55.1px;
+}
+.link7 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 85px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-croatia-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.croatia {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 49px;
+}
+.link8 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 85px;
+  left: 223px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-cyprus-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.cyprus {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 47px;
+}
+.link10,
+.link9 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 85px;
+}
+.link9 {
+  left: 446px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.link10 {
+  height: 59px;
+  left: 669px;
+}
+.flag-of-denmark-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.denmark {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 61px;
+}
+.link11 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 85px;
+  left: 892px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-estonia-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.estonia {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 50px;
+}
+.link12 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 85px;
+  left: 1115px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-finland-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.finland {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 49.1px;
+}
+.link13 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 85px;
+  left: 1338px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-france-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.france {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 46px;
+}
+.link14 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 164px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-georgia-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.georgia {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 52.2px;
+}
+.link15 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 164px;
+  left: 223px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-germany-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.germany {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 60.3px;
+}
+.link16 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 164px;
+  left: 446px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-greece-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.greece {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 47.2px;
+}
+.link17 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 164px;
+  left: 669px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-hungary-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.hungary {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 57px;
+}
+.link18 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 164px;
+  left: 892px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-iceland-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.iceland {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 49px;
+}
+.link19 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 164px;
+  left: 1115px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-ireland-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.ireland {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 46px;
+}
+.link20 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 164px;
+  left: 1338px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-italy-1-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.italy {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 28.3px;
+}
+.link21 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 243px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-kosovo-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.kosovo {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 50px;
+}
+.link22 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 243px;
+  left: 223px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-latvia-150x150webp {
+  margin: 0;
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.latvia {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 41px;
+}
+.link23 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 243px;
+  left: 446px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-liechtenstein-150x150-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.liechtenstein {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 90px;
+}
+.link24 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 243px;
+  left: 669px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.ltsvg-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.lithuania {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 62px;
+}
+.link25,
+.link26 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 243px;
+}
+.link25 {
+  left: 892px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.link26 {
+  height: 59px;
+  left: 1115px;
+}
+.flag-of-macedonia-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.macedonia {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 75px;
+}
+.link27 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 243px;
+  left: 1338px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-malta-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.malta {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 38.3px;
+}
+.link28 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 322px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-moldova-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.moldova {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 58px;
+}
+.link29 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 322px;
+  left: 223px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-monaco-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.monaco {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 55px;
+}
+.link30 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 322px;
+  left: 446px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-montenegro-150x150web-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.montenegro {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 81.2px;
+}
+.link31,
+.link32 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 322px;
+}
+.link31 {
+  left: 669px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.link32 {
+  height: 59px;
+  left: 892px;
+}
+.flag-of-norway-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.norway {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 51.2px;
+}
+.link33 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 322px;
+  left: 1115px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-poland-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.poland {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 47px;
+}
+.link34 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 322px;
+  left: 1338px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-portugal-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.portugal {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 57.1px;
+}
+.link35 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 401px;
+  left: 0;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.romania-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.romania {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 60px;
+}
+.link36 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 401px;
+  left: 223px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-serbia-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.serbia {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 43px;
+}
+.link37 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 401px;
+  left: 446px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.sksvg-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 25px;
+}
+.slovakia {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 56.1px;
+}
+.link38 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 401px;
+  left: 669px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-slovenia-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.slovenia {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 57px;
+}
+.link39 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 401px;
+  left: 892px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-spain-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.spain {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 38px;
+}
+.link40 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 401px;
+  left: 1115px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-sweden-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  min-height: 25px;
+}
+.sweden {
+  position: relative;
+  line-height: 25.5px;
+  display: inline-block;
+  min-width: 53.2px;
+}
+.link41,
+.link42 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+}
+.link41 {
+  top: 401px;
+  left: 1338px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.8px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.link42 {
+  height: 59px;
+  top: 480px;
+  left: 0;
+}
+.flag-of-turkey-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.turkey {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 45px;
+}
+.link43 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 480px;
+  left: 223px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.flag-of-ukraine-150x150webp-icon {
+  height: 25px;
+  width: 25px;
+  position: relative;
+  border-radius: 12.5px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.ukraine {
+  position: relative;
+  line-height: 26px;
+  display: inline-block;
+  min-width: 51px;
+}
+.link44,
+.link45 {
+  width: 200px;
+  margin: 0 !important;
+  position: absolute;
+  top: 480px;
+}
+.link44 {
+  left: 446px;
+  border-radius: 10px;
+  background-color: #f8fcff;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 16.7px 17px 16.3px;
+  box-sizing: border-box;
+  gap: 10px;
+}
+.link45 {
+  height: 59px;
+  left: 669px;
+}
+.background5,
+.flags {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.flags {
+  width: 1538px;
+  height: 539px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  position: relative;
+  gap: 20px 22.3px;
+  text-align: left;
+  font-size: 15px;
+  color: #00a11a;
+  font-family: Roboto;
+}
+.background5 {
+  align-self: stretch;
+  border-radius: 0 0 20px 20px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  gap: 23px;
+  text-align: center;
+  font-size: 32px;
+  color: #2e254d;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 750px) {
+  .available-in {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .background5 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .available-in {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

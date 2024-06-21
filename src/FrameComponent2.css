@@ -1,0 +1,64 @@
+.link-icon1 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-21 {
+  width: 248.4px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+}
+.connectivity-for-travelers,
+.embedded-digital-sim,
+.esim-technology-has,
+.incompatible-devices-as,
+.popularity-they-have {
+  margin: 0;
+}
+.esim-technology-has-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #080808;
+}
+.frame-child1 {
+  width: 132px;
+  height: 46px;
+}
+.frame-parent1,
+.link-group {
+  display: flex;
+  align-items: flex-start;
+}
+.link-group {
+  height: 548.7px;
+  width: 306.7px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.frame-parent1 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1050px) {
+  .frame-parent1 {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

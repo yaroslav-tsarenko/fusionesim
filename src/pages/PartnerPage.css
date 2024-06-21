@@ -1,0 +1,99 @@
+.heading-1 {
+  margin: 0;
+  width: 256px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.looking-to-grow {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.collaboration,
+.collaboration-content,
+.hero,
+.partnerpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.collaboration-content {
+  width: 1063.8px;
+  align-items: flex-start;
+  gap: 16px;
+  max-width: 100%;
+}
+.collaboration,
+.hero,
+.partnerpage {
+  align-items: center;
+}
+.collaboration {
+  width: 1280px;
+  background-color: #f2f6f8;
+  padding: 48px 40px;
+  box-sizing: border-box;
+  gap: 64px;
+  max-width: 100%;
+}
+.hero,
+.partnerpage {
+  background-color: #fff;
+}
+.hero {
+  align-self: stretch;
+  padding: 48px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #080808;
+  font-family: "tt hoves";
+}
+.partnerpage {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1100px) {
+  .collaboration,
+  .hero {
+    padding-top: 31px;
+    padding-bottom: 31px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .heading-1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .collaboration {
+    gap: 32px;
+  }
+  .hero {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .collaboration {
+    gap: 16px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}

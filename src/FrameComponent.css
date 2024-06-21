@@ -1,0 +1,63 @@
+.link-icon3 {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.know-before-you,
+.the-cherry-blossom,
+.tokyo-and-japan {
+  margin: 0;
+}
+.heading-2-container2,
+.planning-a-trip {
+  position: relative;
+  line-height: 120%;
+}
+.planning-a-trip {
+  align-self: stretch;
+  height: 88px;
+  font-size: 16px;
+  line-height: 135%;
+  color: #080808;
+  display: flex;
+  align-items: center;
+}
+.frame-child3 {
+  width: 132px;
+  height: 46px;
+}
+.frame-parent2,
+.link-parent1 {
+  display: flex;
+  align-items: flex-start;
+}
+.link-parent1 {
+  height: 548.7px;
+  width: 306.7px;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 0.1px;
+  box-sizing: border-box;
+  gap: 14px;
+}
+.frame-parent2 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1050px) {
+  .frame-parent2 {
+    flex-wrap: wrap;
+  }
+}

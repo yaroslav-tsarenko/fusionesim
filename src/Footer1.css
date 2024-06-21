@@ -1,0 +1,291 @@
+.link-dictionary1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 88px;
+}
+.link-data1,
+.link-esim3,
+.link-international1,
+.link-mobile3,
+.link-mobile4 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.link-data-plan-parent,
+.link-dictionary-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-data-plan-parent {
+  align-self: stretch;
+  gap: 14px;
+  font-size: 16px;
+}
+.link-dictionary-parent {
+  width: 200px;
+  gap: 16px;
+}
+.link-help1 {
+  width: 103px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.link-esim4,
+.link-manage1,
+.link-mobile5,
+.link-popular1,
+.link-troubleshooting1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.link-esim-dictionary-group,
+.link-help-center-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.link-esim-dictionary-group {
+  align-self: stretch;
+  font-size: 16px;
+}
+.link-help-center-parent {
+  width: 200px;
+}
+.link-installation1 {
+  width: 158px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.link-esim5,
+.link-setup3 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.link-setup3 {
+  height: 44px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.link-setup4,
+.link-setup5 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.installation-guide-links,
+.link-installation-guides-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.installation-guide-links {
+  align-self: stretch;
+  font-size: 16px;
+}
+.link-installation-guides-parent {
+  width: 200px;
+}
+.link-articles1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 66px;
+}
+.selecting-the-ideal1,
+.travel1 {
+  margin: 0;
+}
+.selecting-the-ideal-container1 {
+  position: relative;
+  line-height: 135%;
+}
+.adventure1,
+.destinations-2023-for1,
+.discover-the-ultimate1 {
+  margin: 0;
+}
+.discover-the-ultimate-container1 {
+  position: relative;
+  line-height: 135%;
+}
+.travel-article-links {
+  font-size: 16px;
+}
+.frame-parent4,
+.link-articles-parent,
+.travel-article-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frame-parent4 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.group-icon {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.fusionwavesim3 {
+  flex: 1;
+  position: relative;
+  line-height: 45px;
+}
+.frame-parent6 {
+  width: 302px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.symbol4,
+.symbol5 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.footer-symbols {
+  width: 74.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.link-terms1 {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "tt hoves";
+  text-align: left;
+}
+.footer-symbols-parent {
+  width: 235px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  text-align: center;
+  font-size: 30px;
+  font-family: "Font Awesome 5 Brands";
+}
+.link-get1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 94px;
+}
+.infofusionwavesimapp1 {
+  position: relative;
+  font-size: 12px;
+  line-height: 100%;
+  white-space: nowrap;
+}
+.link-get-in-touch-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  font-size: 16px;
+}
+.frame-parent5 {
+  width: 1206px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+  font-size: 37.3px;
+}
+.footer1,
+.frame-parent3 {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.frame-parent3 {
+  width: 1680px;
+  height: 335px;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.footer1 {
+  align-self: stretch;
+  background-color: #080808;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1050px) {
+  .frame-parent4 {
+    flex-wrap: wrap;
+  }
+  .frame-parent3 {
+    height: auto;
+  }
+}
+@media screen and (max-width: 750px) {
+  .fusionwavesim3 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .symbol4,
+  .symbol5 {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .frame-parent5 {
+    flex-wrap: wrap;
+  }
+  .footer1 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .fusionwavesim3 {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .symbol4,
+  .symbol5 {
+    font-size: 18px;
+    line-height: 18px;
+  }
+}

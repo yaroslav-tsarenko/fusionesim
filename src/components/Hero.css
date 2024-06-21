@@ -1,0 +1,87 @@
+.image-1-icon {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.experience-the-world,
+.stay-connected-anywhere {
+  width: 494px;
+  position: relative;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  z-index: 1;
+}
+.stay-connected-anywhere {
+  margin: 0;
+  font-size: inherit;
+  line-height: 110%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.experience-the-world {
+  font-size: 16px;
+  line-height: 135%;
+}
+.form-input1,
+.hero {
+  max-width: 100%;
+  font-family: "tt hoves";
+}
+.form-input1 {
+  border: 0;
+  background-color: transparent;
+  width: 494px;
+  height: 43.5px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.7);
+  font-size: 16px;
+  color: gray;
+  z-index: 1;
+}
+.hero {
+  align-self: stretch;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 54px 192px 60.5px;
+  box-sizing: border-box;
+  position: relative;
+  gap: 12px;
+  flex-shrink: 0;
+  text-align: left;
+  font-size: 48px;
+  color: #fff;
+}
+@media screen and (max-width: 900px) {
+  .stay-connected-anywhere {
+    font-size: 38px;
+    line-height: 42px;
+  }
+  .hero {
+    padding-left: 96px;
+    padding-right: 96px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .stay-connected-anywhere {
+    font-size: 29px;
+    line-height: 32px;
+  }
+  .hero {
+    padding: 35px 20px 39px;
+    box-sizing: border-box;
+  }
+}

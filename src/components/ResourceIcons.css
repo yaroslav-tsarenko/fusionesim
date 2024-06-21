@@ -1,0 +1,65 @@
+.link-help-booksvg {
+  height: 66px;
+  width: 66px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.backgroundshadow4 {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  background-color: #00a11a;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 17px 14px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.link-all,
+.link-esim3 {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.link-esim3 {
+  width: 136px;
+  line-height: 22px;
+}
+.link-all {
+  align-self: stretch;
+  height: 15px;
+  font-size: 16px;
+  line-height: 135%;
+  flex-shrink: 0;
+}
+.management-links,
+.resource-icons {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.management-links {
+  flex: 1;
+  flex-direction: column;
+  gap: 20px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.resource-icons {
+  width: 323.6px;
+  flex-direction: row;
+  gap: 23.9px;
+  min-width: 323.6px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #080808;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1050px) {
+  .resource-icons {
+    flex: 1;
+  }
+}

@@ -1,0 +1,350 @@
+.heading-23 {
+  margin: 0;
+  width: 488.3px;
+  height: 30px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.a-regular-sim,
+.by-your-carrier,
+.esim-technology-allows,
+.pro-and-redmi,
+.removable-card-xiaomi,
+.swapping-sim-cards {
+  margin: 0;
+}
+.esim-technology-allows-container {
+  align-self: stretch;
+  height: 153px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #000;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.activation,
+.heading-24 {
+  align-self: stretch;
+  display: flex;
+}
+.activation {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 19px;
+  max-width: 100%;
+}
+.heading-24 {
+  margin: 0;
+  height: 30px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  flex-shrink: 0;
+}
+.accept-the-terms,
+.activate-the-wifi,
+.go-to-settings,
+.make-sure-the,
+.on-esim-pick,
+.pick-mobilecellular-data,
+.scan-the-qr {
+  margin: 0;
+}
+.item-activate-container {
+  height: 178.5px;
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.setup-steps,
+.steps-list {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.steps-list {
+  width: 524.6px;
+  flex-direction: row;
+  padding: 0 50px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #000;
+}
+.setup-steps {
+  width: 589.6px;
+  flex-direction: column;
+  gap: 19.7px;
+}
+.heading-25 {
+  margin: 0;
+  width: 254px;
+  height: 30px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.can-i-convert,
+.symbol8 {
+  position: relative;
+  line-height: 34px;
+}
+.symbol8 {
+  margin: 0;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 25px;
+}
+.question-symbols,
+.slot-summary {
+  display: flex;
+  align-items: flex-start;
+}
+.question-symbols {
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  font-size: 32px;
+  font-family: Poppins;
+}
+.slot-summary {
+  align-self: stretch;
+  background-color: #080808;
+  border: 1px solid #d5d8dc;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 11px;
+  gap: 20px;
+  font-family: "Open Sans";
+}
+.no-converting-your,
+.phone-number-to,
+.simultaneously-so-you,
+.xiaomi-phones-that {
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.no-converting-your {
+  width: 1061px;
+  height: 24.9px;
+  flex-shrink: 0;
+}
+.phone-number-to,
+.simultaneously-so-you,
+.xiaomi-phones-that {
+  width: 1074.1px;
+}
+.phone-number-to,
+.simultaneously-so-you {
+  width: 1077.5px;
+}
+.phone-number-to {
+  width: 982.2px;
+}
+.slot-region {
+  align-self: stretch;
+  border: 1px solid #d5d8dc;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 20px 20px 21px;
+  gap: 1px;
+  max-width: 100%;
+  z-index: 1;
+}
+.can-i-use {
+  height: 34px;
+  width: 362.1px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 45px);
+}
+.symbol9 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 25px;
+}
+.dual-sim-symbol {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  font-size: 32px;
+}
+.answer,
+.details-slot-summary {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.details-slot-summary {
+  background-color: #f2f6f9;
+  border: 1px solid #d5d8dc;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 11px;
+  gap: 20px;
+  z-index: 2;
+  margin-top: -0.1px;
+  font-size: 18px;
+  color: #080808;
+}
+.answer {
+  flex-direction: column;
+  justify-content: flex-start;
+  font-size: 16px;
+  color: #1c1917;
+}
+.can-i-have {
+  height: 34px;
+  width: 513.4px;
+  position: relative;
+  line-height: 120%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: calc(100% - 45px);
+}
+.symbol10 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 32px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 25px;
+}
+.symbol-wrapper1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 1px 0 0;
+  font-size: 32px;
+}
+.details-slot-summary1,
+.f-a-q,
+.f-a-q-list,
+.setup-info {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.details-slot-summary1 {
+  background-color: #f2f6f9;
+  border: 1px solid #d5d8dc;
+  box-sizing: border-box;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 9px 11px;
+  gap: 20px;
+  z-index: 3;
+  font-size: 18px;
+  color: #080808;
+}
+.f-a-q,
+.f-a-q-list,
+.setup-info {
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.f-a-q-list {
+  font-size: 20px;
+  color: #fff;
+}
+.f-a-q,
+.setup-info {
+  gap: 20px;
+}
+.setup-info {
+  gap: 37.2px;
+  text-align: left;
+  font-size: 32px;
+  color: #080808;
+  font-family: Poppins;
+}
+@media screen and (max-width: 750px) {
+  .heading-23,
+  .heading-24 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .steps-list {
+    padding-left: 25px;
+    padding-right: 25px;
+    box-sizing: border-box;
+  }
+  .heading-25 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .symbol10,
+  .symbol8,
+  .symbol9 {
+    font-size: 26px;
+    line-height: 26px;
+  }
+  .setup-info {
+    gap: 19px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-23,
+  .heading-24,
+  .heading-25 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .can-i-convert {
+    font-size: 16px;
+    line-height: 27px;
+  }
+  .symbol10,
+  .symbol8,
+  .symbol9 {
+    font-size: 19px;
+    line-height: 19px;
+  }
+}

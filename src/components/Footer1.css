@@ -1,0 +1,291 @@
+.link-dictionary2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 88px;
+}
+.link-data2,
+.link-esim7,
+.link-international2,
+.link-mobile8,
+.link-mobile9 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.link-data-plan-group,
+.link-dictionary-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-data-plan-group {
+  align-self: stretch;
+  gap: 14px;
+  font-size: 16px;
+}
+.link-dictionary-group {
+  width: 200px;
+  gap: 16px;
+}
+.link-help2 {
+  width: 103px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.link-esim8,
+.link-manage4,
+.link-mobile10,
+.link-popular3,
+.link-troubleshooting4 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.link-esim-dictionary-container,
+.link-help-center-group {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.link-esim-dictionary-container {
+  align-self: stretch;
+  font-size: 16px;
+}
+.link-help-center-group {
+  width: 200px;
+}
+.link-installation4 {
+  width: 158px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+}
+.link-esim9,
+.link-setup6 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.link-setup6 {
+  height: 44px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.link-setup7,
+.link-setup8 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.guide-items,
+.guide-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.guide-items {
+  align-self: stretch;
+  font-size: 16px;
+}
+.guide-links {
+  width: 200px;
+}
+.link-articles2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 66px;
+}
+.selecting-the-ideal2,
+.travel3 {
+  margin: 0;
+}
+.selecting-the-ideal-container2 {
+  position: relative;
+  line-height: 135%;
+}
+.adventure2,
+.destinations-2023-for2,
+.discover-the-ultimate2 {
+  margin: 0;
+}
+.discover-the-ultimate-container2 {
+  position: relative;
+  line-height: 135%;
+}
+.article-items {
+  font-size: 16px;
+}
+.article-items,
+.article-links2,
+.frame-parent15 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frame-parent15 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.footer-logo-child {
+  height: 50px;
+  width: 50px;
+  position: relative;
+  object-fit: cover;
+}
+.fusionwavesim8 {
+  flex: 1;
+  position: relative;
+  line-height: 45px;
+}
+.footer-logo {
+  width: 302px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 7px;
+}
+.symbol7,
+.symbol8 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+}
+.footer-icons {
+  width: 74.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+}
+.link-terms2 {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  font-family: "tt hoves";
+  text-align: left;
+}
+.footer-contact {
+  width: 235px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  text-align: center;
+  font-size: 30px;
+  font-family: Poppins;
+}
+.link-get2 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 94px;
+}
+.infofusionwavesimapp2 {
+  position: relative;
+  font-size: 12px;
+  line-height: 100%;
+  white-space: nowrap;
+}
+.info-links {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  font-size: 16px;
+}
+.footer-info {
+  width: 1206px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  max-width: 100%;
+  font-size: 37.3px;
+}
+.footer-content2,
+.footer4 {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+}
+.footer-content2 {
+  width: 1680px;
+  height: 335px;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.footer4 {
+  align-self: stretch;
+  background-color: #080808;
+  align-items: center;
+  justify-content: center;
+  padding: 80px 20px;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: 18px;
+  color: #fff;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1100px) {
+  .frame-parent15 {
+    flex-wrap: wrap;
+  }
+  .footer-content2 {
+    height: auto;
+  }
+}
+@media screen and (max-width: 750px) {
+  .fusionwavesim8 {
+    font-size: 30px;
+    line-height: 36px;
+  }
+  .symbol7,
+  .symbol8 {
+    font-size: 24px;
+    line-height: 24px;
+  }
+  .footer-info {
+    flex-wrap: wrap;
+  }
+  .footer4 {
+    padding-top: 52px;
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .fusionwavesim8 {
+    font-size: 22px;
+    line-height: 27px;
+  }
+  .symbol7,
+  .symbol8 {
+    font-size: 18px;
+    line-height: 18px;
+  }
+}

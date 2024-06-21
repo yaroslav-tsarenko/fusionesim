@@ -1,0 +1,46 @@
+.link-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  border-radius: 10px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+}
+.heading-2 {
+  width: 248.4px;
+  position: relative;
+  line-height: 23.4px;
+  display: flex;
+  align-items: center;
+}
+.collected-some-romantic,
+.soups-cuddles-and,
+.winter-is-the {
+  margin: 0;
+}
+.winter-is-the-container {
+  align-self: stretch;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #080808;
+}
+.frame-button {
+  width: 132px;
+  height: 46px;
+}
+.link-parent {
+  height: 506.1px;
+  width: 306.7px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 14px;
+  text-align: left;
+  font-size: 18px;
+  color: #000;
+  font-family: "tt hoves";
+}

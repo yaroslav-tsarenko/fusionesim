@@ -1,0 +1,445 @@
+.heading-32 {
+  margin: 0;
+  width: 272px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.link-flaf-eastasiajpg {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.144);
+}
+.wrapper-link-flaf-eastasiaj {
+  height: 84.1px;
+  width: 83.6px;
+  position: absolute;
+  margin: 0 !important;
+  right: -59px;
+  bottom: -53.2px;
+  border-radius: 41.9px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.deal1,
+.hot1 {
+  margin: 0;
+}
+.hot-deal-txt-container {
+  line-break: anywhere;
+}
+.hot-deal1 {
+  height: 24px;
+  position: relative;
+  line-height: 100%;
+  display: flex;
+  align-items: center;
+}
+.backgroundborder1,
+.featured-country-elements {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.backgroundborder1 {
+  flex: 1;
+  border-radius: 20px;
+  background-color: #00a11a;
+  border: 2px solid #00a11a;
+  padding: 5px 5px 5px 8px;
+  z-index: 1;
+}
+.featured-country-elements {
+  width: 40px;
+  position: relative;
+}
+.far-east {
+  width: 56px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 56px;
+}
+.far-east-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 17px;
+}
+.gb2 {
+  align-self: stretch;
+  position: relative;
+  font-size: 18px;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 90px;
+}
+.featured-country-info,
+.frame-div {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-div {
+  flex: 1;
+  flex-direction: column;
+  gap: 12px;
+}
+.featured-country-info {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 4px;
+  font-size: 16px;
+  color: #080808;
+}
+.featured-country,
+.featured-country-card {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.featured-country-card {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: 65.2px;
+}
+.featured-country {
+  width: 99px;
+  justify-content: flex-end;
+  padding: 0 4px 6.1px 0;
+  box-sizing: border-box;
+  font-size: 12px;
+}
+.link-dubai-abu-dhabi-uae-fla {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.144);
+}
+.wrapper-link-dubai-abu-dhabi {
+  height: 83.6px;
+  width: 83.6px;
+  position: relative;
+  border-radius: 41.78px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.featured-country-two-elements {
+  align-self: stretch;
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 3px;
+}
+.dhabi-uae,
+.dubai-abu {
+  margin: 0;
+}
+.dubai-abu-dhabi-container,
+.gb3 {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.dubai-abu-dhabi-container {
+  height: 44px;
+  line-height: 135%;
+}
+.gb3 {
+  width: 71px;
+  line-height: 22px;
+  justify-content: center;
+  min-width: 71px;
+}
+.featured-country-two,
+.gb-container {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.gb-container {
+  flex-direction: row;
+  padding: 0 9px;
+  font-size: 18px;
+}
+.featured-country-two {
+  height: 173.5px;
+  width: 90px;
+  flex-direction: column;
+  gap: 11.9px;
+  color: #080808;
+}
+.link-flag-of-south-africawe {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.144);
+}
+.wrapper-link-flag-of-south-a {
+  height: 83.6px;
+  width: 83.6px;
+  position: absolute;
+  margin: 0 !important;
+  right: -59.1px;
+  bottom: -52.8px;
+  border-radius: 41.78px;
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 0;
+}
+.deal2,
+.hot2 {
+  margin: 0;
+}
+.hot-deal2 {
+  position: relative;
+  line-height: 12px;
+}
+.backgroundborder2,
+.wrapper-link-flag-of-south-a-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.backgroundborder2 {
+  flex: 1;
+  border-radius: 20px;
+  background-color: #00a11a;
+  border: 2px solid #00a11a;
+  padding: 5px 5px 5px 8px;
+  z-index: 1;
+}
+.wrapper-link-flag-of-south-a-parent {
+  width: 40px;
+  position: relative;
+}
+.gb4,
+.south-africa {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 88px;
+}
+.gb4 {
+  font-size: 18px;
+  min-width: 89px;
+}
+.frame-wrapper,
+.south-africa-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.south-africa-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 12px;
+}
+.frame-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 0 5px;
+  font-size: 16px;
+  color: #080808;
+  font-family: "tt hoves";
+}
+.country-cards2,
+.frame-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame-parent1 {
+  align-self: stretch;
+  justify-content: flex-start;
+  gap: 64.7px;
+}
+.country-cards2 {
+  width: 99.1px;
+  justify-content: flex-end;
+  padding: 0 5px 6.4px 0;
+  box-sizing: border-box;
+  font-size: 10px;
+  font-family: "Open Sans";
+}
+.link-flag-of-canadawebp {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+  position: absolute;
+  left: 0;
+  top: 4px;
+  transform: scale(1.144);
+}
+.canada,
+.wrapper-link-flag-of-canada {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper-link-flag-of-canada {
+  width: 83.6px;
+  height: 83.6px;
+  border-radius: 41.78px;
+  flex-shrink: 0;
+}
+.canada {
+  width: 56px;
+  line-height: 22px;
+  min-width: 56px;
+}
+.featured-country-three-info {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 13px 0 14px;
+}
+.gb5 {
+  width: 71px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 71px;
+}
+.featured-country-three-info1 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 6px;
+  font-size: 18px;
+}
+.featured-country-three-element {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 11.9px;
+}
+.featured-country-three {
+  height: 162.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 11px;
+  box-sizing: border-box;
+  color: #080808;
+}
+.popular-countries {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  padding: 0 2px 0.1px 0;
+  gap: 20px;
+  font-size: 16px;
+  color: #fff;
+}
+.content1,
+.countries {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.countries {
+  flex: 1;
+  background-color: #f2f6f8;
+  flex-direction: column;
+  padding: 64px 120px 63.9px;
+  gap: 54px;
+}
+.content1 {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 80px;
+  flex-shrink: 0;
+  text-align: center;
+  font-size: 32px;
+  color: #080808;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1325px) {
+  .popular-countries {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .countries {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .heading-32 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .countries {
+    gap: 27px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+  .content1 {
+    padding-bottom: 52px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-32 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .countries {
+    padding-top: 42px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}

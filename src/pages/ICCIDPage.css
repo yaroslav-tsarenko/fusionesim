@@ -1,0 +1,45 @@
+.iccidpage,
+.section {
+  display: flex;
+  align-items: flex-start;
+}
+.section {
+  align-self: stretch;
+  background-color: #f2f6f8;
+  flex-direction: row;
+  justify-content: center;
+  padding: 81px 20px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.iccidpage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .section {
+    padding-top: 53px;
+    padding-bottom: 53px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .section {
+    padding-top: 34px;
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .section {
+    padding-top: 22px;
+    padding-bottom: 22px;
+    box-sizing: border-box;
+  }
+}

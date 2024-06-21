@@ -1,0 +1,16 @@
+.europe-plans {
+  width: 1147px;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 25px;
+  box-sizing: border-box;
+  gap: 14px;
+  max-width: 100%;
+  text-align: center;
+  font-size: 16px;
+  color: #000;
+  font-family: "tt hoves";
+}

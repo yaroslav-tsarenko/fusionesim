@@ -1,0 +1,34 @@
+.to-learn-more {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: 24px;
+  line-height: 29px;
+  font-weight: 400;
+  font-family: "TT Hoves";
+  color: #00a11a;
+}
+.partnership {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 42px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: #080808;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 750px) {
+  .partnership {
+    gap: 21px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .to-learn-more {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

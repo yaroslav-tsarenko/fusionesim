@@ -1,0 +1,785 @@
+.about-us,
+.what-is-an {
+  margin: 0;
+  width: 140px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.what-is-an {
+  width: 257px;
+}
+.background1 {
+  align-self: stretch;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #00b61d, #8abd03 40.96%, #98be00 77.5%);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23px 77px 24px;
+  gap: 348px;
+}
+.connectivity-technologies-tod,
+.for-over-18,
+.partner-delivering-cutting-ed,
+.while-we-began {
+  margin: 0;
+}
+.for-over-18-container {
+  align-self: stretch;
+  height: 286px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.about-lead {
+  width: 412.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 22px 0 0;
+  box-sizing: border-box;
+  min-width: 412.5px;
+  max-width: 100%;
+}
+.an-esim-embedded,
+.between-mobile-data,
+.directly-into-a,
+.eliminates-the-need,
+.lost-or-damaged,
+.without-having-to {
+  margin: 0;
+}
+.an-esim-embedded-container {
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  min-width: 404.9px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+  max-width: 100%;
+}
+.about-details,
+.about-paragraph,
+.overlayshadow {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.about-paragraph {
+  flex: 1;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+}
+.about-details,
+.overlayshadow {
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.about-details {
+  width: 979.9px;
+  flex-direction: row;
+  padding: 0 35px;
+  font-size: 16px;
+  color: #36495f;
+}
+.overlayshadow {
+  align-self: stretch;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  background-color: #f2f6f8;
+  flex-direction: column;
+  padding: 0 0 55px;
+  gap: 20px;
+}
+.fusionwavesim1,
+.why-choose1 {
+  margin: 0;
+}
+.our-mission,
+.why-choose-fusionwavesim-container {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.our-mission {
+  align-self: stretch;
+}
+.mission {
+  width: 178px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 18.5px 0 0;
+  box-sizing: border-box;
+}
+.background-child {
+  height: 163.2px;
+  width: 120px;
+  position: absolute;
+  margin: 0 !important;
+  top: -39.8px;
+  left: 368px;
+  object-fit: cover;
+  z-index: 1;
+}
+.background2 {
+  align-self: stretch;
+  border-radius: 8px;
+  background: linear-gradient(90deg, #00b61d, #8abd03 40.96%, #98be00 77.5%);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 27px 20px;
+  position: relative;
+  gap: 254px;
+}
+.features-that-make,
+.somewhere-in-between,
+.we-offer-a,
+.whether-youre-a {
+  margin: 0;
+}
+.customer-support-our,
+.we-offer-a-container {
+  position: relative;
+  line-height: 135%;
+}
+.customer-support-our {
+  width: 378.1px;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+}
+.benefit-description {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  min-width: 397.5px;
+  max-width: 100%;
+}
+.data-and-were,
+.everyone,
+.has-the-potential,
+.our-mission-is,
+.the-world-around {
+  margin: 0;
+}
+.our-mission-is-container1 {
+  width: 100%;
+}
+.our-mission-is-container {
+  height: 132px;
+  width: 397.6px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 397.6px;
+  max-width: 100%;
+}
+.benefit-item {
+  width: 897.6px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.competitive-prices-we {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.benefit-image-wrapper {
+  width: 398.4px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 4.5px 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.about-sima-768x382jpg-icon {
+  margin-left: -8.4px;
+  width: 540px;
+  flex: 1;
+  position: relative;
+  max-height: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  flex-shrink: 0;
+  debug_commit: 448091;
+  max-width: 100%;
+}
+.benefit-placeholder {
+  height: 268.6px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0;
+  box-sizing: border-box;
+  min-width: 531.6px;
+  max-width: 100%;
+}
+.benefit-image {
+  flex-direction: row;
+  justify-content: flex-start;
+  row-gap: 20px;
+}
+.benefit-image,
+.benefit-list,
+.benefits {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.benefit-list {
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 11.5px;
+}
+.benefits {
+  flex-direction: row;
+  justify-content: flex-end;
+  padding: 0 20px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #36495f;
+}
+.overlayshadow1,
+.why-choose {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.overlayshadow1 {
+  flex: 1;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  background-color: #fff;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 66px;
+}
+.why-choose {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 30px;
+  box-sizing: border-box;
+}
+.our-team {
+  width: 140.5px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.background3 {
+  align-self: stretch;
+  border-radius: 15px;
+  background-color: #f2f6f8;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23.5px 20px 24.5px;
+  white-space: nowrap;
+}
+.passion-for-technology,
+.revolution-and-were,
+.service-were-excited,
+.we-are-a,
+.with-the-best {
+  margin: 0;
+}
+.we-are-a-container {
+  height: 127.5px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+}
+.team-background,
+.we-are-a-team-of-experienced-p-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.we-are-a-team-of-experienced-p-wrapper {
+  flex-direction: row;
+  padding: 0 30px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #36495f;
+}
+.team-background {
+  flex: 1;
+  flex-direction: column;
+  gap: 29.2px;
+  min-width: 299px;
+}
+.background4 {
+  align-self: stretch;
+  height: 70px;
+}
+.technology,
+.we-invite-you,
+.world-one-esim {
+  margin: 0;
+}
+.we-invite-you-container {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.we-invite-you-to-join-us-on-ou-wrapper {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 31px 0 30px;
+  box-sizing: border-box;
+}
+.team,
+.team-background1,
+.team-content,
+.we-invite-you-to-join-us-on-ou-wrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.team-background1 {
+  flex: 1;
+  flex-direction: column;
+  gap: 36.2px;
+  min-width: 299px;
+  font-size: 16px;
+  color: #36495f;
+}
+.team,
+.team-content {
+  flex-direction: row;
+}
+.team-content {
+  flex: 1;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+.team {
+  align-self: stretch;
+  padding: 0 20px 27.8px;
+  box-sizing: border-box;
+  font-size: 18px;
+  color: #000;
+}
+.partner-with-us {
+  width: 228px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.background5 {
+  flex: 1;
+  border-radius: 15px;
+  background-color: #f2f6f8;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 23.5px 20px 24.5px;
+  box-sizing: border-box;
+  min-width: 299px;
+  white-space: nowrap;
+  max-width: 100%;
+}
+.contact-us {
+  width: 158.8px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.background6,
+.call-to-action-background {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background6 {
+  flex: 1;
+  border-radius: 15px;
+  background-color: #f2f6f8;
+  padding: 23.5px 20px 24.5px;
+  box-sizing: border-box;
+  min-width: 299px;
+  white-space: nowrap;
+}
+.call-to-action-background {
+  align-self: stretch;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+.collaboration,
+.if-you-share,
+.work-together-to,
+.you-to-contact {
+  margin: 0;
+}
+.if-you-share-container {
+  height: 102px;
+  position: relative;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 9.2px 0 0;
+  box-sizing: border-box;
+  min-width: 379.5px;
+  max-width: 100%;
+}
+.symbol1 {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 14.4px;
+}
+.contact-icons {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 5px;
+}
+.csfusionwavesimapp {
+  height: 25.5px;
+  width: 138.1px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #36495f;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-link6 {
+  align-self: stretch;
+  height: 25.5px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 5.7px 0 0.8px;
+  box-sizing: border-box;
+  gap: 8.1px;
+}
+.symbol2 {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 14.4px;
+}
+.symbol-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.7px 0 0;
+}
+.wwwfacebookcomfusionwavesim {
+  width: 236.1px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #36495f;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-link7 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8.1px;
+}
+.symbol3 {
+  position: relative;
+  line-height: 14px;
+  display: inline-block;
+  min-width: 12.6px;
+}
+.symbol-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.7px 0 0;
+}
+.wwwinstagramcomfusionwavesi {
+  width: 228.4px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #36495f;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.item-link8 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 9.9px;
+}
+.symbol4 {
+  position: relative;
+  line-height: 14px;
+  color: inherit;
+  display: inline-block;
+  text-decoration: none;
+  min-width: 13.9px;
+}
+.symbol-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 5.7px 0 0;
+}
+.wwwfusionwavesimapp {
+  height: 25.5px;
+  width: 145.3px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  color: #36495f;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  text-decoration: none;
+}
+.item-link9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 8.6px;
+}
+.contact,
+.contact-content,
+.list {
+  display: flex;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.list {
+  width: 420px;
+  flex-direction: column;
+  justify-content: flex-start;
+  min-width: 420px;
+  font-size: 14px;
+  color: #98be00;
+}
+.contact,
+.contact-content {
+  flex-direction: row;
+}
+.contact-content {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.contact {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 20px 0 30px;
+  box-sizing: border-box;
+  font-size: 16px;
+  color: #36495f;
+}
+.call-to-action-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 20px;
+  max-width: 100%;
+}
+.about-content,
+.call-to-action {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.call-to-action {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 20px;
+  box-sizing: border-box;
+  font-size: 18px;
+  color: #000;
+}
+.about-content {
+  width: 1000px;
+  flex-direction: column;
+  gap: 63px;
+  text-align: left;
+  font-size: 32px;
+  color: #fff;
+  font-family: Poppins;
+}
+@media screen and (max-width: 1050px) {
+  .background1 {
+    flex-wrap: wrap;
+    gap: 174px;
+    padding-left: 38px;
+    padding-right: 38px;
+    box-sizing: border-box;
+  }
+  .about-lead,
+  .an-esim-embedded-container {
+    flex: 1;
+  }
+  .about-paragraph {
+    flex-wrap: wrap;
+  }
+  .benefit-description,
+  .our-mission-is-container {
+    flex: 1;
+  }
+  .benefit-item {
+    flex-wrap: wrap;
+  }
+  .about-sima-768x382jpg-icon {
+    align-self: stretch;
+    width: auto;
+  }
+  .benefit-placeholder {
+    flex: 1;
+  }
+  .benefit-image {
+    flex-wrap: wrap;
+  }
+  .overlayshadow1 {
+    gap: 33px;
+  }
+  .contact-info,
+  .list {
+    flex: 1;
+  }
+  .contact-content {
+    flex-wrap: wrap;
+  }
+  .about-content {
+    gap: 31px;
+  }
+}
+@media screen and (max-width: 750px) {
+  .about-us,
+  .what-is-an {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .about-lead,
+  .an-esim-embedded-container {
+    min-width: 100%;
+  }
+  .overlayshadow {
+    padding-bottom: 36px;
+    box-sizing: border-box;
+  }
+  .our-mission,
+  .why-choose-fusionwavesim-container {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .background2 {
+    flex-wrap: wrap;
+    gap: 127px;
+  }
+  .benefit-description,
+  .benefit-placeholder,
+  .our-mission-is-container {
+    min-width: 100%;
+  }
+  .overlayshadow1 {
+    gap: 16px;
+  }
+  .call-to-action-background,
+  .team-content {
+    gap: 20px;
+  }
+  .contact-info,
+  .list {
+    min-width: 100%;
+  }
+  .about-content {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .about-us,
+  .what-is-an {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .background1 {
+    gap: 87px;
+  }
+  .our-mission,
+  .why-choose-fusionwavesim-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .background2 {
+    gap: 63px;
+  }
+  .team-background1 {
+    gap: 18px;
+  }
+}

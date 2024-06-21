@@ -1,0 +1,89 @@
+.productusa,
+.productusa-wrapper {
+  display: flex;
+  justify-content: center;
+}
+.productusa {
+  margin: 0;
+  width: 187px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  align-items: center;
+  text-shadow: -2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.productusa-wrapper {
+  width: 651px;
+  flex-direction: row;
+  align-items: flex-start;
+  max-width: 100%;
+}
+.form-input {
+  border: 0;
+  background-color: transparent;
+  width: 651px;
+  height: 43.5px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.7);
+  font-family: Roboto;
+  font-size: 15px;
+  color: gray;
+  max-width: 100%;
+}
+.frame-parent7,
+.productpage-child {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.frame-parent7 {
+  flex: 1;
+  overflow: hidden;
+  flex-direction: column;
+  padding: 124px 173px 124.5px;
+  gap: 20px;
+  background-image: url(/public/frame-1000006070@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+.productpage-child {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 0 64px;
+  text-align: center;
+  font-size: 32px;
+  color: #fff;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1050px) {
+  .frame-parent7 {
+    padding-left: 86px;
+    padding-right: 86px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .productusa {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .frame-parent7 {
+    padding-left: 43px;
+    padding-right: 43px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .productusa {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .productpage-child {
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}

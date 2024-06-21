@@ -1,0 +1,46 @@
+.svg-icon {
+  height: 60px;
+  width: 60px;
+  position: relative;
+  object-fit: contain;
+}
+.heading-31 {
+  align-self: stretch;
+  position: relative;
+  line-height: 29px;
+}
+.heading-3-whatsappsms-wrapper {
+  width: 181px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 11.7px;
+  box-sizing: border-box;
+}
+.link {
+  align-self: stretch;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.5);
+  border-radius: 15px;
+  background-color: transparent;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  padding: 20px 20px 27.5px;
+  gap: 20px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 450px) {
+  .heading-31 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .link {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

@@ -1,0 +1,244 @@
+.back {
+  flex: 1;
+  position: relative;
+  font-size: 20px;
+  line-height: 20px;
+  font-family: "Open Sans";
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  min-width: 51.3px;
+}
+.back-link,
+.section-link {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.section-link {
+  cursor: pointer;
+  border: 0;
+  padding: 5px 4px 5px 5px;
+  background-color: #d8d8d8;
+  align-self: stretch;
+  border-radius: 3px;
+  flex-direction: row;
+}
+.section-link:hover {
+  background-color: #bfbfbf;
+}
+.back-link {
+  width: 61.1px;
+  flex-direction: column;
+  padding: 25px 0 0;
+  box-sizing: border-box;
+}
+.heading-32 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+}
+.heading-4 {
+  width: 128px;
+  position: relative;
+  line-height: 22px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 128px;
+}
+.subtitle {
+  flex-direction: row;
+  justify-content: flex-start;
+  padding: 0 27px;
+  font-size: 16px;
+}
+.breadcrumb,
+.header,
+.subtitle,
+.title {
+  display: flex;
+  align-items: flex-start;
+}
+.title {
+  width: 183px;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.breadcrumb,
+.header {
+  flex-direction: row;
+  max-width: 100%;
+}
+.breadcrumb {
+  flex: 1;
+  justify-content: space-between;
+  gap: 20px;
+}
+.header {
+  width: 618.5px;
+  justify-content: flex-start;
+  padding: 0 27px;
+  box-sizing: border-box;
+}
+.advice-and-answers,
+.the-fusionwavesim-team {
+  margin: 0;
+}
+.advice-and-answers-container1 {
+  width: 100%;
+}
+.advice-and-answers-container {
+  margin: 0;
+  height: 90px;
+  width: 486.5px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.container,
+.search-description {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.search-description {
+  width: 737.6px;
+  justify-content: center;
+  padding: 0 0 0 2px;
+}
+.container {
+  width: calc(100% - 59.9px);
+  border: 0;
+  outline: 0;
+  background-color: transparent;
+  height: 27px;
+  flex: 1;
+  overflow: hidden;
+  justify-content: flex-start;
+  padding: 0 0.4px;
+  font-family: "tt hoves";
+  font-size: 18px;
+  color: #fff;
+  opacity: 0.5;
+  min-width: 250px;
+}
+.input-icon {
+  height: 40px;
+  width: 39.9px;
+  position: absolute;
+  margin: 0 !important;
+  top: 5px;
+  right: -1.8px;
+  z-index: 1;
+}
+.input {
+  width: 736.6px;
+  border-bottom: 1px solid #fff;
+  box-sizing: border-box;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 13px 10px;
+  position: relative;
+}
+.background,
+.container1,
+.help-center,
+.input,
+.search {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.background {
+  flex: 1;
+  border-radius: 24px;
+  background: linear-gradient(90deg, #00b61d, #8abd03 40.96%, #98be00 77.5%);
+  flex-direction: column;
+  align-items: center;
+  padding: 23px 20px 30px;
+  box-sizing: border-box;
+  gap: 27px;
+}
+.container1,
+.help-center,
+.search {
+  align-items: flex-start;
+}
+.search {
+  align-self: stretch;
+  flex-direction: row;
+  padding: 0 27px;
+  box-sizing: border-box;
+  color: #fff;
+}
+.container1,
+.help-center {
+  flex-direction: column;
+}
+.container1 {
+  align-self: stretch;
+  padding: 50px 0 100px;
+  box-sizing: border-box;
+  gap: 20px;
+  min-height: 1023px;
+  text-align: left;
+  font-size: 24px;
+}
+.help-center {
+  width: 1000px;
+  gap: 24px;
+  text-align: center;
+  font-size: 32px;
+  color: #000;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1050px) {
+  .container1 {
+    padding-top: 32px;
+    padding-bottom: 65px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .advice-and-answers-container,
+  .heading-32 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .container1 {
+    padding-top: 21px;
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .back {
+    font-size: 16px;
+    line-height: 16px;
+  }
+  .heading-32 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .breadcrumb {
+    flex-wrap: wrap;
+  }
+  .advice-and-answers-container {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

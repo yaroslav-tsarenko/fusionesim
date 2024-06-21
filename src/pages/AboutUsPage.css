@@ -1,0 +1,40 @@
+.about-content-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 20px 124.8px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.aboutuspage {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1225px) {
+  .about-content-wrapper {
+    padding-bottom: 81px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .about-content-wrapper {
+    padding-bottom: 53px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .about-content-wrapper {
+    padding-bottom: 34px;
+    box-sizing: border-box;
+  }
+}

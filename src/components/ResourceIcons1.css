@@ -1,0 +1,79 @@
+.link-hep-smilelysvg {
+  position: absolute;
+  top: calc(50% - 29px);
+  left: calc(50% - 29px);
+  width: 58px;
+  height: 58px;
+  overflow: hidden;
+  object-fit: contain;
+}
+.backgroundshadow5 {
+  height: 100px;
+  width: 95.6px;
+  position: relative;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+  background-color: #00a11a;
+  min-width: 95.6px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.link-popular1 {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 117px;
+}
+.link-someone {
+  align-self: stretch;
+  height: 15px;
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.link-popular-q-a-parent,
+.resource-icons1 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.link-popular-q-a-parent {
+  flex: 1;
+  flex-direction: column;
+  gap: 20px;
+  min-width: 174px;
+  flex-shrink: 0;
+  debug_commit: 448091;
+}
+.resource-icons1 {
+  width: 387.3px;
+  flex-direction: row;
+  gap: 24px;
+  min-width: 387.3px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 18px;
+  color: #080808;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1050px) {
+  .resource-icons1 {
+    flex: 1;
+  }
+}
+@media screen and (max-width: 750px) {
+  .resource-icons1 {
+    min-width: 100%;
+  }
+}
+@media screen and (max-width: 450px) {
+  .backgroundshadow5 {
+    flex: 1;
+  }
+  .resource-icons1 {
+    flex-wrap: wrap;
+  }
+}

@@ -1,0 +1,81 @@
+.partner-suitcasepng-icon {
+  height: 150px;
+  width: 150px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: contain;
+}
+.heading-3 {
+  margin: 0;
+  width: 212px;
+  position: relative;
+  font-size: inherit;
+  line-height: 120%;
+  font-weight: 400;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+}
+.insurance-with-esim,
+.offer-your-retail {
+  margin: 0;
+}
+.offer-your-retail-container {
+  position: relative;
+  font-size: 16px;
+  line-height: 135%;
+}
+.partnership-card-content,
+.partnership-cards {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 20px 0;
+  box-sizing: border-box;
+  gap: 24px;
+  max-width: 100%;
+}
+.partnership-cards {
+  align-self: stretch;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 16px;
+  background-color: #fff;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 219px 10px 20px;
+  gap: 20px;
+  text-align: left;
+  font-size: 32px;
+  color: #080808;
+  font-family: "tt hoves";
+}
+@media screen and (max-width: 1250px) {
+  .partnership-cards {
+    flex-wrap: wrap;
+    padding-right: 109px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .heading-3 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .partnership-cards {
+    padding-right: 54px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-3 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .partnership-cards {
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

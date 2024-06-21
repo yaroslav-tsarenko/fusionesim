@@ -1,0 +1,23 @@
+.how-it-works {
+  align-self: stretch;
+  height: 914.8px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 64px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+@media screen and (max-width: 1050px) {
+  .how-it-works {
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .how-it-works {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}

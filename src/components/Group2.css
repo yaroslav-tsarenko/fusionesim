@@ -1,0 +1,87 @@
+.ausvg-icon3 {
+  height: 44px;
+  width: 44px;
+  position: relative;
+  border-radius: 999px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.testimonial-cards {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+}
+.div5,
+.testimonial-cards,
+.testimonial-ratings {
+  display: flex;
+  justify-content: center;
+}
+.div5 {
+  width: 79.9px;
+  position: relative;
+  line-height: 25.5px;
+  align-items: center;
+  flex-shrink: 0;
+  min-width: 79.9px;
+}
+.testimonial-ratings {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 1px 0 0;
+  font-family: "Open Sans";
+}
+.i-recently-switched2,
+.traveling-internationally-has2 {
+  margin: 0;
+}
+.cite-alex3,
+.i-recently-switched-container2 {
+  position: relative;
+  display: flex;
+  align-items: center;
+}
+.i-recently-switched-container2 {
+  align-self: stretch;
+  height: 330px;
+  font-size: 16px;
+  line-height: 135%;
+  color: #2e254d;
+}
+.cite-alex3 {
+  width: 130px;
+  line-height: 22px;
+  justify-content: center;
+}
+.group-2-41,
+.testimonial-authors {
+  display: flex;
+  align-items: flex-start;
+}
+.testimonial-authors {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: center;
+  font-size: 18px;
+  color: #080808;
+}
+.group-2-41 {
+  position: absolute;
+  top: 190px;
+  left: 463px;
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.12);
+  border-radius: 15px;
+  background-color: #fff;
+  width: 347px;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 28px 27px 28.5px;
+  box-sizing: border-box;
+  gap: 24px;
+  text-align: center;
+  font-size: 13.2px;
+  color: #fed12f;
+  font-family: "tt hoves";
+}
